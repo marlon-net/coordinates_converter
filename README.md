@@ -46,7 +46,7 @@ __getRay()__ returns ray
 
 __getAngleRadinans()__ returns angle in radians
 
-__getAngleDegrees()__ returns angle in degrees. Ths method actually transform the angle in radians and call getAngleRadians method.
+__getAngleDegrees()__ returns angle in degrees. Ths method actually transform the angle from radians to degrees.
 
 
 
